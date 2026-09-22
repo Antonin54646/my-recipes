@@ -1,0 +1,25 @@
+body {
+    color: #00b300;
+    font-size: xx-large;
+    font-family: "Helvetica", sans-serif;
+    background-image: 
+        linear-gradient(rgba(248, 182, 1, 0.4), rgba(255, 0, 242, 0.596)),
+        url('emoji.jpg');
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+}
+
+h1{
+    color:rgb(0, 217, 255);
+}
+
+h2{
+    color:rgb(255, 230, 0);
+}
+ul{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+ol{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
