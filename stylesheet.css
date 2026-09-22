@@ -23,3 +23,16 @@ ul{
 ol{
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
+.conteneur {
+  display: flex; 
+  gap: 20px;     
+}
+.bloc-quiche {
+    flex: 1;
+    background-color: #21006e; 
+    border: 2px solid #00d9ff;    
+    padding: 20px;             
+    margin: 15px;              
+    border-radius: 8px;        
+    max-width: 400px;          
+}
